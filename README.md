@@ -2,6 +2,8 @@
 
 Anomaly detection in aircraft engines using state-of-the-art (SOTA) zero-shot models.
 
+See report above.
+
 ---
 
 ## Project Structure
